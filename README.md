@@ -47,14 +47,14 @@ This Hangman game is a classic word-guessing game where the player needs to gues
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 
-1. Fork the project.
-2. Create a new branch:
+- Fork the project.
+- Create a new branch:
    git checkout -b feature/your-feature or bugfix/your-bugfix.
-3. Make your changes and commit them:
+- Make your changes and commit them:
    git commit -m 'Description of your changes'.
-4. Push to the branch:
+- Push to the branch:
    git push origin feature/your-feature.
-5. Open a pull request.
+- Open a pull request.
 
 ## Output
 
