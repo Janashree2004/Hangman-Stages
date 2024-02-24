@@ -24,15 +24,15 @@ This Hangman game is a classic word-guessing game where the player needs to gues
 
 ## Installation
 
-1. Clone the repository:
+- Clone the repository:
 
    https://github.com/your-username/hangman-game.git
-   
-2. Change into the project directory:
+
+- Change into the project directory:
 
    cd hangman-game
    
-3. Run the game:
+- Run the game:
 
    python hangman.py
    
