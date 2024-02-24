@@ -38,10 +38,10 @@ This Hangman game is a classic word-guessing game where the player needs to gues
    
 ## Usage
 
-- **Upon running the game, the player will be prompted to guess a letter.**
-- **The game provides feedback on whether the guessed letter is correct or incorrect.**
-- **The Hangman stages are displayed visually for incorrect guesses.**
-- **The player wins by correctly guessing the entire word or loses by running out of attempts.**
+- Upon running the game, the player will be prompted to guess a letter.
+- The game provides feedback on whether the guessed letter is correct or incorrect.
+- The Hangman stages are displayed visually for incorrect guesses.
+- The player wins by correctly guessing the entire word or loses by running out of attempts.
 
 ## Contributing
 
