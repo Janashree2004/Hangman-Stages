@@ -62,7 +62,6 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 ![image](https://github.com/Janashree2004/Hangman-Stages/assets/142415775/ec7feb5c-dd78-467c-933f-f93b8c3259b2)
 ![image](https://github.com/Janashree2004/Hangman-Stages/assets/142415775/17a8594e-4cf7-469d-9eff-7e8998b34fa7)
 ![image](https://github.com/Janashree2004/Hangman-Stages/assets/142415775/41d43628-d0d9-454b-a698-13132440be92)
-   https://janashree2004.github.io/Hangman-Stages/
    
 ## License
 
