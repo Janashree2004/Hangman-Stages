@@ -59,6 +59,7 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 ## Output
 
 ![image](https://github.com/Janashree2004/Hangman-Stages/assets/142415775/6d51e781-f078-45c6-a891-62c9344121e4)
+![image](https://github.com/Janashree2004/Hangman-Stages/assets/142415775/ec7feb5c-dd78-467c-933f-f93b8c3259b2)
 
 
 
