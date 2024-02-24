@@ -27,41 +27,6 @@ This Hangman game is a classic word-guessing game where the player needs to gues
 1. Clone the repository:
 
    git clone https://github.com/your-username/hangman-game.git
-
-
-Certainly! A good README file is essential for any project on GitHub. Here's an example README file for a Hangman game implemented in Python:
-
-markdown
-Copy code
-# Hangman Game
-
-A simple Hangman game implemented in Python.
-
-## Table of Contents
-
-- [Description](#description)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Description
-
-This Hangman game is a classic word-guessing game where the player needs to guess a hidden word letter by letter before running out of attempts. The game is implemented in Python and can be a fun project for learning the basics of programming.
-
-## Features
-
-- Randomly selects a word from a predefined list.
-- Visualizes the Hangman stages for each incorrect guess.
-- Tracks and displays the incorrect guesses.
-- Informs the player about the game outcome - win or lose.
-
-## Installation
-
-1. Clone the repository:
-
-   git clone https://github.com/your-username/hangman-game.git
    
 2. Change into the project directory:
 
@@ -90,6 +55,11 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 4. Push to the branch:
    git push origin feature/your-feature.
 5. Open a pull request.
+
+## Output
+
+
+
 
 ## License
 
