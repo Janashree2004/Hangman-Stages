@@ -26,7 +26,7 @@ This Hangman game is a classic word-guessing game where the player needs to gues
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/hangman-game.git
+   https://github.com/your-username/hangman-game.git
    
 2. Change into the project directory:
 
@@ -58,6 +58,7 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 ## Output
 
+![image](https://github.com/Janashree2004/Hangman-Stages/assets/142415775/6d51e781-f078-45c6-a891-62c9344121e4)
 
 
 
