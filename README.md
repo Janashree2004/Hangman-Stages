@@ -66,6 +66,7 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 ## License
 
 This project is licensed under the MIT License.
+
 MIT License: Permission is hereby granted, free of charge, to any person obtaining a copy of this software.
 
 
